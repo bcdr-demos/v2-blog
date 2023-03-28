@@ -2,7 +2,7 @@
 
 An example Javascript project that is configured for development in Coder.
 
-[![Open in Coder](https://svgur.com/i/rYX.svg)](https://dev.coder.com/templates/kubernetes-open-in-coder/workspace?param.Image=mcr.microsoft.com/vscode/devcontainers/javascript-node:16-bullseye&param.Git%20repository=https://github.com/bcdr-demos/v2-blog)
+[![Open in Coder](https://svgur.com/i/rZo.svg)](https://dev.coder.com/templates/kubernetes-open-in-coder/workspace?param.Image=mcr.microsoft.com/vscode/devcontainers/javascript-node:16-bullseye&param.Git%20repository=https://github.com/bcdr-demos/v2-blog)
 
 ![Screenshot of blog running in Coder](static/screenshot.png)
 
